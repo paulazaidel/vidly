@@ -55,7 +55,7 @@ namespace Vidly
             //   consumerSecret: "");
 
             //app.UseFacebookAuthentication(
-            //   appId: "",
+            //   appId: "119328352036943",
             //   appSecret: "");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
